@@ -122,11 +122,11 @@ Enter the applicant's financial and personal details below to run the assessment
 
 developer_info = """
 ### About the Developer
-**Created by:** Chandan Saroj
+**Created by:** khushi
 
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-* **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
-* **Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
+
+* **GitHub:** [Check out my projects](https://github.com/tanwar072007-cmyk)
+
 
 ---
 ### 🛠️ Tools & Technologies Used
